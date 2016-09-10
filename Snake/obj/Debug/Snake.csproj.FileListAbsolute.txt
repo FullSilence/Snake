@@ -1,0 +1,6 @@
+C:\Users\Hromo\Source\Repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Hromo\Source\Repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Hromo\Source\Repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Hromo\Source\Repos\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Hromo\Source\Repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Hromo\Source\Repos\Snake\Snake\obj\Debug\Snake.pdb
