@@ -10,12 +10,14 @@ namespace Snake
     {
         static void Main(string[] args)
         {
+            Console.SetBufferSize(120, 30);
 
-            new LineHorisontal(3, 35, 8, '*').draw();
-            new LineVertical(6, 20, 3, '#').draw();
+            new LineHorisontal(0, 118, 0, '+').draw();
+            new LineHorisontal(0, 118, 29, '+').draw();
+            new LineVertical(0, 29, 0, '+').draw();
+            new LineVertical(0, 29, 118, '+').draw();
 
             Console.ReadKey();
         }
-
     }
 }
